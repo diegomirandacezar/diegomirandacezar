@@ -1,4 +1,4 @@
-# <h2>Olá ✅ Eu sou Diego Miranda, estudante de programação no Senai Bras </h2>
+# <h2> Estudante de Programação </h2>
 
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
@@ -21,59 +21,5 @@
 <p align="center">
 </p>
 
-<p> 
-
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/i/christian-oliveira-925532257/)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-
-## 🔥Skills!
-
-<a href="https://github.com/VariableBee"><img src="https://github-readme-stats.vercel.app/api?username=hugokalix&show_icons=false&theme=gotham"> </a><a href="https://github.com/VariableBee"><img src="https://github-readme-streak-stats.herokuapp.com?user=hugokalix&theme=gotham"></a>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
-
-  <div style="flex-basis: 48%;">
-    <h3>Tecnologias Utilizadas</h3>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-     <img align="center" alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-      <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-      
-  </div>
-
-  <div style="flex-basis: 48%;">
-   
-    
-    
-    <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img align="center" alt="Boostrap5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    
-       
-  </div>
-  
-  <div style="flex-basis: 48%;">
-    <h3>Bibliotecas</h3>
-   
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Pycharm" src="https://files.virgool.io/upload/users/195990/posts/brr4zgebnwns/rcbdtarfrkv0.png" width="80" height="40">
-     
-
-
-  </div>
-</div>
-<br />
-<div align="center">
-  <a href="https://github.com/hugokalix">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hugokalix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugokalix&layout=compact&langs_count=7&theme=onedark"/>
-</div>
