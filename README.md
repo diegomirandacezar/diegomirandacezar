@@ -1,4 +1,4 @@
-# <h2>Desenvolvedor Python Full-stack</h2>
+# <h2>Olá ✅ Eu sou Diego Miranda, estudante de programação no Senai Bras </h2>
 
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
@@ -22,7 +22,7 @@
 </p>
 
 <p> 
-Olá 👋 Eu sou Diego Miranda, estudante de programação no Senai Bras 
+
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/i/christian-oliveira-925532257/)
 
